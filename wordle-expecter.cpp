@@ -5,7 +5,6 @@
 #include <string>
 #include <cmath>
 #include <chrono>
-#include <windows.h>
 
 #define _CHAR 0
 #define STATE 1
