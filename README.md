@@ -3,7 +3,7 @@
 
 - My slogan is < 0% optimization with 100% brute force >
 
-- How to use the shitty program:
+- How to use the program:
   - 1) Wait for list of recommend words to appear (Might takes up to minutes, depends on the number of words remaining, and your CPU spec)
   - 2) Enter word with top entropy ranking
   - 3) Repeat the word in the program, and enter a five digit code representing (0: miss, 1: grey, 2: green)
