@@ -13,6 +13,6 @@
     - Example:
     -   aisle
     -   00102
-    -   ![image](https://github.com/DaydreamerWilson/Wordle-Expecter/assets/20011545/b726ca35-0b3a-4836-a33f-d2542080a941)
+    -   ![image](https://github.com/DaydreamerWilson/Wordle-Expecter/assets/20011545/4f8ae40c-c570-4049-af1d-beb66337cb13)
   - 4) repeat 1 and 2 until finished the Wordle riddle
-  - 5) enter -r to reset the word list 
+  - 5) enter -r to reset the program and start fresh
