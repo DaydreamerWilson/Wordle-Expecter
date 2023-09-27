@@ -1,7 +1,8 @@
 # Wordle-Expecter
 - A side project to determine the best word to enter Wordle to narrow down the vocabulary list. (Same method as 3Blue1Brown, I stole his vocabulary list, and also his idea)
 
-- This is only tested on Windows 10 and 11, it is not recommended to compile or run on any other platform due to dynamic linking
+- This is only tested on Windows 10 and 11, it is not recommended to run on any other platform due to dynamic linking
+- However, in theory it is possible to compile on other platform with compiler version newer or equal to C++19, since it only used standard libraries
 
 - My slogan is < 0% optimization with 100% brute force >
 
