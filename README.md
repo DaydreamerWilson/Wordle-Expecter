@@ -8,10 +8,11 @@
 
 - How to use the program:
   - 1) Wait for list of recommend words to appear (Might takes up to minutes, depends on the number of words remaining, and your CPU spec)
-  - 2) Enter word with top entropy ranking
-  - 3) Repeat the word in the program, and enter a five digit code representing (0: miss, 1: grey, 2: green)
+  - 2) Enter word with top entropy ranking on Wordle
+  - 3) Repeat the word in the program, and enter a five digit code representing the correctness (0: miss, 1: grey, 2: green)
     - Example:
-    -   penis
+    -   aisle
     -   00102
+    -   ![image](https://github.com/DaydreamerWilson/Wordle-Expecter/assets/20011545/b726ca35-0b3a-4836-a33f-d2542080a941)
   - 4) repeat 1 and 2 until finished the Wordle riddle
   - 5) enter -r to reset the word list 
