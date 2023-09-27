@@ -16,3 +16,7 @@
     -   ![image](https://github.com/DaydreamerWilson/Wordle-Expecter/assets/20011545/4f8ae40c-c570-4049-af1d-beb66337cb13)
   - 4) repeat 1 and 2 until finished the Wordle riddle
   - 5) enter -r to reset the program and start fresh
+
+- Important
+  - The word that provide the most information at the time might not necessarily be in the remaining word list
+  - If the word with the highest entropy has already been entered, choose the one with the second highest, and so on 
